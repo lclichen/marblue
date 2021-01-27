@@ -1,0 +1,1 @@
+To Use CDN With Url:[https://cdn.jsdelivr.net/gh/lclichen/marblue@main/{path}/{filename}](https://cdn.jsdelivr.net/gh/lclichen/marblue@main/{path}/{filename})
